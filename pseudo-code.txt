@@ -1,0 +1,40 @@
+On startup:
+    user input -> airline or airport
+    searchable dropdown -> airlines or airports
+
+    header:
+        title   subtitle    settings    help
+
+    settings:
+        dark mode   user configs    basemap
+
+    help:
+        instructions for use    explanation of metrics      data sources
+
+    map widgets:
+        2D/3D toggle    home    zoom    search
+        playback    layers  legend
+
+    left pane:
+        airline/airport metrics
+
+    right pane:
+        aircraft/flight metrics
+
+Interactions:
+    filter flights:
+        by date     by aircraft     by departing airport
+        by arrival airport      by airline
+
+    view playback:
+        open subwindow      sync 3D view with 2D track
+        timeslider
+
+    popups:
+        tracks    airports    aircraft
+
+    reports:
+        flight detail
+
+    export:
+        flights
